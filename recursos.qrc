@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="iconoAyuda">Recursos/informacion.png</file>
+        <file alias="iconoPrincipal">Recursos/tienda.png</file>
+    </qresource>
+</RCC>
